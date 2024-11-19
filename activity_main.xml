@@ -10,14 +10,13 @@
         android:layout_height="wrap_content"
         android:orientation="vertical">
 
-        <!-- Back Button -->
+       
         <ImageView
             android:layout_width="24dp"
             android:layout_height="24dp"
             android:src="@drawable/backarrow"
             android:contentDescription="Back Button" />
 
-        <!-- Header Text -->
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -35,7 +34,7 @@
             android:layout_marginBottom="24dp"
             android:textColor="@android:color/darker_gray" />
 
-        <!-- First Name Field -->
+    
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -43,7 +42,7 @@
             android:backgroundTint="@color/red"
             android:layout_marginBottom="16dp" />
 
-        <!-- Last Name Field -->
+        
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -51,7 +50,7 @@
             android:backgroundTint="@color/red"
             android:layout_marginBottom="16dp" />
 
-        <!-- Email Field -->
+       
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -60,7 +59,7 @@
             android:backgroundTint="@color/red"
             android:layout_marginBottom="16dp" />
 
-        <!-- Password Field -->
+        
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -69,7 +68,7 @@
             android:backgroundTint="@color/red"
             android:layout_marginBottom="24dp" />
 
-        <!-- Sign Up Button -->
+        
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
